@@ -104,4 +104,13 @@ By the end of the course, students will be able to:
 - Understand how C differs from Java and how it connects to Python  
 - Demonstrate foundational skills for later systems and software courses
 
-
+==========
+LAB1
+----------
+PROGRAM OUTPUT:
+@mintyross ➜ /workspaces/Programming_Languages-Lab1_C_2026_Fall_Labs (main) $ make bin/hello && ./bin/hello
+make: 'bin/hello' is up to date.
+Hello from Rostyslav Hrabenko!
+You passed 0 argument(s).
+@mintyross ➜ /workspaces/Programming_Languages-Lab1_C_2026_Fall_Labs (main) $ 
+==========
